@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
             </div>
             <div class="aspect-w-16 aspect-h-9">
             <video width="640" height="360" controls autoplay>
-            <source src="movie/Crea una cuenta Yopmail.mp4" type="video/mp4">
+            <source src="Crea una cuenta Yopmail.mp4" type="video/mp4">
             
             </video>  
             </div>
